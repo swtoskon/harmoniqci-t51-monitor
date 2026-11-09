@@ -1,6 +1,6 @@
-# T5.1 monitor, 2026-11-02
+# T5.1 monitor, 2026-11-09
 
-Changes: 1. Flags: 6. New candidates: 3.
+Changes: 1. Flags: 6. New candidates: 1.
 
 ## Needs expert review
 
@@ -15,15 +15,13 @@ Changes: 1. Flags: 6. New candidates: 3.
 
 | Tool | Field | Old | New |
 | --- | --- | --- | --- |
-| SeQUeNCe | Last commit | 2026-10-23 | 2026-11-02 |
+| SeQUeNCe | Last commit | 2026-11-02 | 2026-11-06 |
 
 ## New candidates (decide in the sheet "Candidates": Add or Reject)
 
 | Name | Source | Stars | Last update | Description |
 | --- | --- | --- | --- | --- |
-| [Xari9e/cybersec-etsi-qkd018](https://github.com/Xari9e/cybersec-etsi-qkd018) | GitHub | 0 | 2026-11-02 |  |
-| [luispengler/qkd-sdn-kms-ml](https://github.com/luispengler/qkd-sdn-kms-ml) | GitHub | 0 | 2026-10-26 |  |
-| [ikiu99/qkd-adaptive-multipath-relay](https://github.com/ikiu99/qkd-adaptive-multipath-relay) | GitHub | 0 | 2026-10-27 | Adaptive-threshold multipath key relay for SDN-controlled QKD networks: per-request (paths, t, n) selection under calibr |
+| [LiU-Quantum-Technologies-Laboratory/LinQ-QKD-Hackathon](https://github.com/LiU-Quantum-Technologies-Laboratory/LinQ-QKD-Hackathon) | GitHub | 0 | 2026-11-06 | Code for consuming keys and simulating a KMS system for Quantum Key Distribution. |
 
 ## Sources not reached
 
